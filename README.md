@@ -3,6 +3,7 @@
 ### Requirements
 - Ruby 3.1.2
 - Rails 7.0.6
+- SQLite3 (Default minimal database provided by rails)
 
 ### Steps to setup
 
